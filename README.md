@@ -1,4 +1,4 @@
-Angular registration-authorization example
+Angular2 user registration-authorization
 ==========================================
 
 1. install libraries (`npm install`)
